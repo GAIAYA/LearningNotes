@@ -1,0 +1,22 @@
+﻿Binaries
+DerivedDataCache
+Intermediate
+Saved
+Build
+Content/*
+!Content/SuperNatural/
+
+# 忽略 Word 临时文件（以 ~$ 开头）
+~$*
+
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.idea
